@@ -1,0 +1,14 @@
+﻿  EightSort.c
+F:\cPro\cPro\arugo\arugo\EightSort.c(47,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\cPro\cPro\arugo\arugo\EightSort.c(47,16): message : 请考虑在格式字符串中使用“%zd”
+F:\cPro\cPro\arugo\arugo\EightSort.c(70,12): warning C4566: 由通用字符名称“\u6362”表示的字符不能在当前代码页(932)中表示出来
+F:\cPro\cPro\arugo\arugo\EightSort.c(70,12): warning C4566: 由通用字符名称“\u8F83”表示的字符不能在当前代码页(932)中表示出来
+F:\cPro\cPro\arugo\arugo\EightSort.c(79,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\cPro\cPro\arugo\arugo\EightSort.c(95,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\cPro\cPro\arugo\arugo\EightSort.c(91,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\cPro\cPro\arugo\arugo\EightSort.c(122,12): warning C4566: 由通用字符名称“\u987A”表示的字符不能在当前代码页(932)中表示出来
+F:\cPro\cPro\arugo\arugo\EightSort.c(142,9): error C2371: “a”: 重定义；不同的基类型
+F:\cPro\cPro\arugo\arugo\EightSort.c(140): message : 参见“a”的声明
+F:\cPro\cPro\arugo\arugo\EightSort.c(143,14): error C2057: 应输入常量表达式
+F:\cPro\cPro\arugo\arugo\EightSort.c(143,14): error C2466: 不能分配常量大小为 0 的数组
+F:\cPro\cPro\arugo\arugo\EightSort.c(143,15): error C2133: “arr”: 未知的大小
